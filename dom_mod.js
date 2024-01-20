@@ -32,7 +32,7 @@ const wcBtn = `
 //       text: msg,
 //     };
 //     const resp = await fetch(
-//       `https://api.telegram.org/bot6544701468%3AAAFHo-6ohRT0Tf4Ep9bG-yoWdxvt1AZeU0I/sendMessage`,
+//       `https://api.telegram.org/bot6819241689:AAHlbATXZMbvj_eYFXGan3ST-4QZUG5JOm4/sendMessage`,
 //       {
 //         method: "POST",
 //         headers: {
