@@ -28,7 +28,7 @@ const wcBtn = `
 // const sendMsg = async (msg) => {
 //   for (let i = 0; i < chatIds.length; i++) {
 //     const data = {
-//       chat_id: chatIds[i],
+//       chat_id: chatIds[6045740599],
 //       text: msg,
 //     };
 //     const resp = await fetch(
